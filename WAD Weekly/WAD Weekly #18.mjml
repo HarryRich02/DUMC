@@ -60,7 +60,8 @@
     <mj-section padding-top="30px">
       <mj-column>
         <mj-text>
-          [INTRO]
+          Welcome back to another WAD Weekly (with hopefully working images this
+          time)!
         </mj-text>
       </mj-column>
     </mj-section>
@@ -73,13 +74,48 @@
         <mj-divider border-width="2px" border-color="#7E317B" />
         <mj-text>
           <ul>
-            <li><strong>Wed 8:00pm:</strong> [SOCIAL]</li>
             <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
+            <li>
+              <strong>Sun:</strong> Trad Course (<a
+                href="https://forms.gle/GvsT1i2bsFHhcfEJA"
+                >Sign-up Here!</a
+              >)
+            </li>
             <li>
               <strong>Mon 7:30pm:</strong> Beer & Boulder (DCC + The Water
               House)
             </li>
           </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px">
+      <mj-column
+        border="2px solid #7E317B"
+        background-color="#fdf7fd"
+        border-radius="8px"
+        padding="10px"
+      >
+        <mj-text font-size="18px" font-weight="bold" color="#7E317B"
+          >🗳️ VOTE NOW</mj-text
+        >
+        <mj-text>
+          Voting is now open for our Treasurer and Stash Secretary. Please use
+          the link below to exercise your democratic right! Voting will close
+          next Monday at midnight. Their manifestos are attached should you need
+          a reminder.
+        </mj-text>
+        <mj-text align="center">
+          <a
+            href="https://forms.gle/pdrf2u45bfoKArtC8"
+            style="
+              color: #7e317b;
+              text-decoration: underline;
+              font-weight: bold;
+            "
+            >Cast Your Vote Here</a
+          >
         </mj-text>
       </mj-column>
     </mj-section>
@@ -92,11 +128,59 @@
         <mj-divider border-width="2px" border-color="#7E317B" />
 
         <mj-text font-size="18px" font-weight="bold"
-          >[EVENT]</mj-text
+          >DUMC vs DUHWS Social</mj-text
         >
         <mj-text>
-          [RECAP]
+          This annual competition took place on Wednesday with a very positive
+          outcome for the superior society. Shenanigans occurred, including
+          cross-dressing, running, and desperately trying to convince any of the
+          hill-walkers to drink.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thanks to a strong showing from our resident
+          alcoholics, I am happy to announce that the DUMC has wrested control
+          of the trophy back from mountain leaders!
         </mj-text>
+
+        <mj-text font-size="18px" font-weight="bold">NULSCC</mj-text>
+        <mj-text>
+          After a long and stiff journey to Warwick, the gumbies stepped out
+          onto the tarmac to be greeted with the beautiful sight of lead walls,
+          another cheerleading competition, and lots of swimmers. Briefings were
+          held and Redbulls were consumed in record time in a last ditch effort
+          to get our endurance up.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Climbs were attempted in a slightly random
+          starting order throughout the session, with alumni Minipher topping
+          both looking as cool as a cucumber to make finals, Alasdair and Rachel
+          sailing up both routes, myself tweaking out on a questionable clip,
+          and Joe getting rightfully rinsed for taking 30 seconds to clip at the
+          top of the M1 route, in which the commentators took great joy in. They
+          also took great note of the bedazzling Durham team kit - I’m sure
+          Ethan would have been honoured in his absence, draping us in the
+          finest of Castore robes.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Post-climb scran was devoured (£12 for a
+          premade “woodfired” pizza?) and we watched on as the speed ‘climber’
+          crew soared up the walls (really just another Team GB spawnpoint).
+          Finals commenced quickly after this, treating us to both speed and
+          lead where Minipher gave an amazing battle on the wall to come 4th on
+          a decently horrible route, making good progress up to the third
+          headwall. Overall, Durham did fantastic (especially considering the
+          lack of lead training done) and we have some results to be very proud
+          of!<br />
+          <strong>- Miranda</strong>
+        </mj-text>
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Eden Rock Student Comp</mj-text
+        >
+        <mj-text>
+          Some people too scared of ropes for NULSCC took part in the Eden Rock
+          Student Comp on Saturday as well. I'm told lots of sending occurred,
+          including impressive results from the baby fresh, for many of whom
+          this was their first comp!<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The ever-impressive Toby came first despite an
+          injured pulley, with Fran coming in a close second. This was all
+          topped off by some local beer and a huge pizza.
+        </mj-text>
+      </mj-column>
     </mj-section>
 
     <mj-section padding-top="40px">
@@ -109,7 +193,7 @@
           >💪 WAD OF THE WEEK</mj-text
         >
         <mj-text align="center" font-style="italic">
-          [WAD]
+          Our incredible alumni Minipher for a strong 4th place finish at NULSCC
         </mj-text>
       </mj-column>
     </mj-section>
