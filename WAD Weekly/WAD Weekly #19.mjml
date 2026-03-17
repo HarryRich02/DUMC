@@ -1,0 +1,180 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#333333" line-height="24px" />
+      <mj-section background-color="#ffffff" padding="20px" />
+      <mj-button
+        background-color="#7E317B"
+        color="#ffffff"
+        font-weight="bold"
+        border-radius="4px"
+      />
+    </mj-attributes>
+    <mj-style>
+      .header-text {
+        letter-spacing: 2px;
+        text-transform: uppercase;
+      }
+      li {
+        margin-bottom: 8px;
+      }
+      .exec-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+      .exec-table td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        font-size: 14px;
+      }
+      .role-name {
+        font-weight: bold;
+        color: #7e317b;
+        width: 40%;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#7E317B" padding="40px 20px">
+      <mj-column>
+        <mj-image
+          width="300px"
+          src="https://harryrich02.github.io/DUMC/img/dumcCrest.png"
+          alt="DUMC Crest"
+        />
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="28px"
+          font-weight="900"
+          css-class="header-text"
+        >
+          WAD WEEKLY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-text>
+          Apologies for a late one today, Pres has been chronically locked out...<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;We've all nearly made it through another term! I hope this riveting email can serve as brief respite for those facing summative deadlines.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >📅 COMING UP</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+        <mj-text>
+          <ul>
+            <li><strong>Wed 8:00pm:</strong> Gender-swap Social (Van Mildert)</li>
+            <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >🧗 LAST WEEK IN THE DUMC</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Treasurer and Stash Secretary Elections</mj-text
+        >
+        <mj-text>
+          I'm sure you've been on edge wondering all week: who could be our next Treasurer and Stash Sec?<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;It is with great pleasure I can finally announce these final positions!
+        </mj-text>
+        <mj-table css-class="exec-table">
+          <tr><td class="role-name">Treasurer</td><td>Charlie Sawkins</td></tr>
+          <tr><td class="role-name">Stash Sec</td><td>William Wilson</td></tr>
+        </mj-table>
+        <mj-text>
+        Thank you to everyone who applied!
+        </mj-text>
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Sendfest</mj-text
+        >
+        <mj-text>
+          The single most important competition in the DUMC calendar was borne upon us on Saturday in the form of Sendfest, which saw many of our members venturing to the DCC for a crack at 25 interesting competition climbs, split over two sessions. Encouragement was awarded in the forms of shared beta and t-shirts which clearly went down a treat, decking out DUMC in their numbers! Max and Miranda made finals in 1st, retaining their positions with 3t 3z and 2t 3z respectively to win both categories, with Mila 3rd, Rachel 4th and Maddy 6th to show a strong representation of DUMC women in finals 💪 <br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;Overall, a very memorable, fun competition as always, with an amazing turnout of lots of familiar faces, good work from everyone who took part! <br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;P.S. please send in photographs for social media!<br/>
+          <strong>- Miranda</strong>
+        </mj-text>
+    </mj-section>
+
+    <mj-section padding-top="40px">
+      <mj-column border="2px dashed #7E317B" border-radius="10px">
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="bold"
+          color="#7E317B"
+          >💪 WAD OF THE WEEK</mj-text
+        >
+        <mj-text align="center" font-style="italic">
+          Our social sec Chris for touching some real rock for the first time on a trad course
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="20px" padding-bottom="40px">
+      <mj-column>
+        <mj-text>
+          <strong>Harry Richards</strong><br />
+          DUMC President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#222222" padding="40px 20px">
+      <mj-column vertical-align="middle">
+        <mj-image
+          width="120px"
+          src="https://harryrich02.github.io/DUMC/img/dumcLogo.png"
+          alt="DUMC Logo"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          align="center"
+          padding-bottom="10px"
+        >
+          <strong>Durham University Mountaineering Club</strong>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/du.mountaineering"
+            background-color="#7E317B"
+          ></mj-social-element>
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/groups/DUMC.Forum"
+            background-color="#7E317B"
+          ></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="13px" padding-top="15px">
+          <a
+            href="https://mountaineeringclub.webspace.durham.ac.uk/"
+            style="color: #ffffff; text-decoration: underline"
+            >Visit our Website</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
