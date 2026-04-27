@@ -78,7 +78,7 @@
               <strong>Mon 7:30pm:</strong> Beer & Boulder (DCC + The Water
               House)
             </li>
-            <li><strong>Wed 8:00pm:</strong> [SOCIAL]</li>
+            <li><strong>Wed 8:00pm:</strong> Gone Wild (Jobo Bar)</li>
             <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
           </ul>
         </mj-text>
@@ -96,7 +96,13 @@
           >Lola's Expedition to Everest Base Camp</mj-text
         >
         <mj-text>
-          [RECAP]
+          I’d wanted to do Everest Base Camp for a while, partly for the challenge, but also just to see what it would feel like to push myself to do a longer trek! So over Easter, I went for it solo: 15 days trekking up to 5,364 metres!</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Along the way I passed through amazing villages like Namche Bazaar, Dingboche, and Gorak Shep, drinking a lot of tea, and somehow even managing a game of pool on the highest pool table in the world (which I won may I add).</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;I stayed in teahouses the entire way up, completely unheated, and I can confidently say I have never been that cold in my life, and don’t plan to be again.</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;But getting there made it SO worth it. Seeing Mount Everest for the first time was honestly surreal. It’s one of those things I obviously thought would be cool, but not necessarily emotional, and then it completely caught me off guard. Standing there and looking at it properly, made everything else feel very small and put a lot into perspective in a way I didn’t expect.</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;The way down was… less graceful. Turns out altitude doesn’t always love you back. I picked up a lovely combo of AMS and suspected HACE, which resulted in an unplanned helicopter ride off the mountain and a little bit of hospitalisation. Not quite the descent I had in mind, but 10/10 for efficiency. All sorted now though, and very much back in one piece.</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Photos below if you want to see what all the fuss was about 🙂</br>
+          <strong>- Lola</strong>        
         </mj-text>
 
         <mj-text font-size="18px" font-weight="bold"
@@ -109,6 +115,14 @@
           &nbsp;&nbsp;&nbsp;&nbsp;And got helicoptered</br>
           <strong>- Eve</strong>
         </mj-text>
+
+        <mj-carousel tb-width="60px" icon-width="40px" left-icon="https://harryrich02.github.io/DUMC/img/left-arrow.png" right-icon="https://harryrich02.github.io/DUMC/img/right-arrow.png">
+          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/lola-lolaEverestBC.jpg" />
+          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/lola-everest.jpg" />
+          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/eve-chairladderTide.jpg" />
+          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/eve-yerBird.jpg" />
+        </mj-carousel>
+      </mj-column>
     </mj-section>
 
     <mj-section padding-top="40px">
