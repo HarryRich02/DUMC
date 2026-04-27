@@ -1,0 +1,177 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#333333" line-height="24px" />
+      <mj-section background-color="#ffffff" padding="20px" />
+      <mj-button
+        background-color="#7E317B"
+        color="#ffffff"
+        font-weight="bold"
+        border-radius="4px"
+      />
+    </mj-attributes>
+    <mj-style>
+      .header-text {
+        letter-spacing: 2px;
+        text-transform: uppercase;
+      }
+      li {
+        margin-bottom: 8px;
+      }
+      .exec-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+      .exec-table td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        font-size: 14px;
+      }
+      .role-name {
+        font-weight: bold;
+        color: #7e317b;
+        width: 40%;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#7E317B" padding="40px 20px">
+      <mj-column>
+        <mj-image
+          width="300px"
+          src="https://harryrich02.github.io/DUMC/img/dumcCrest.png"
+          alt="DUMC Crest"
+        />
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="28px"
+          font-weight="900"
+          css-class="header-text"
+        >
+          WAD WEEKLY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-text>
+          Welcome to the first WAD weekly of the last term of the year! Hope everyone had a nice easter and is looking forward to plenty of day drinking and climbing (and I guess exams...)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >📅 COMING UP</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+        <mj-text>
+          <ul>
+            <li><strong>Mon 2:30pm:</strong> Club Photos (MC Arena A)</li>
+            <li>
+              <strong>Mon 7:30pm:</strong> Beer & Boulder (DCC + The Water
+              House)
+            </li>
+            <li><strong>Wed 8:00pm:</strong> [SOCIAL]</li>
+            <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >🧗 EASTER IN THE DUMC</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Lola's Expedition to Everest Base Camp</mj-text
+        >
+        <mj-text>
+          [RECAP]
+        </mj-text>
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Eve's Adventure with the Coastguard</mj-text
+        >
+        <mj-text>
+          My boyfriend and I went climbing at Chairladder, went the wrong way up a route so downclimbed to do another one. The tide was coming in and blocked both the exits on foot and routes to most other climbs. We bailed up a diff and texted my dad to let him know, when we got to the top (which was a tower unbeknownst to us), we discovered that he'd called the coastguard and there were 8 or so people up there.</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;We didnt need help but then they weren't super happy with us going down the tower, and the exchanges with them took ages, so it got dark</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;And then we did need their help</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;And got helicoptered</br>
+          <strong>- Eve</strong>
+        </mj-text>
+    </mj-section>
+
+    <mj-section padding-top="40px">
+      <mj-column border="2px dashed #7E317B" border-radius="10px">
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="bold"
+          color="#7E317B"
+          >💪 WAD OF THE EASTER BREAK</mj-text
+        >
+        <mj-text align="center" font-style="italic">
+          Lola and Eve for surviving their respective scenarios and not forcing me to run by-elections
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="20px" padding-bottom="40px">
+      <mj-column>
+        <mj-text>
+          <strong>Harry Richards</strong><br />
+          DUMC President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#222222" padding="40px 20px">
+      <mj-column vertical-align="middle">
+        <mj-image
+          width="120px"
+          src="https://harryrich02.github.io/DUMC/img/dumcLogo.png"
+          alt="DUMC Logo"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          align="center"
+          padding-bottom="10px"
+        >
+          <strong>Durham University Mountaineering Club</strong>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/du.mountaineering"
+            background-color="#7E317B"
+          ></mj-social-element>
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/groups/DUMC.Forum"
+            background-color="#7E317B"
+          ></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="13px" padding-top="15px">
+          <a
+            href="https://mountaineeringclub.webspace.durham.ac.uk/"
+            style="color: #ffffff; text-decoration: underline"
+            >Visit our Website</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
