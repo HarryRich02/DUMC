@@ -19,21 +19,6 @@
       li {
         margin-bottom: 8px;
       }
-      .exec-table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 10px;
-      }
-      .exec-table td {
-        padding: 8px;
-        border-bottom: 1px solid #ddd;
-        font-size: 14px;
-      }
-      .role-name {
-        font-weight: bold;
-        color: #7e317b;
-        width: 40%;
-      }
     </mj-style>
   </mj-head>
 
@@ -104,7 +89,13 @@
           &nbsp;&nbsp;&nbsp;&nbsp;Photos below if you want to see what all the fuss was about 🙂</br>
           <strong>- Lola</strong>        
         </mj-text>
+        <mj-image src="https://harryrich02.github.io/DUMC/img/lola-lolaEverestBC.jpg" width="400px" height="300px" alt="Lola at Everest Base Camp" />
+        <mj-image src="https://harryrich02.github.io/DUMC/img/lola-everest.jpg" width="225px" height="300px" alt="Mount Everest" />
+      </mj-column>
+    </mj-section>
 
+    <mj-section>
+      <mj-column>
         <mj-text font-size="18px" font-weight="bold"
           >Eve's Adventure with the Coastguard</mj-text
         >
@@ -115,13 +106,15 @@
           &nbsp;&nbsp;&nbsp;&nbsp;And got helicoptered</br>
           <strong>- Eve</strong>
         </mj-text>
-
-        <mj-carousel tb-width="60px" icon-width="40px" left-icon="https://harryrich02.github.io/DUMC/img/left-arrow.png" right-icon="https://harryrich02.github.io/DUMC/img/right-arrow.png">
-          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/lola-lolaEverestBC.jpg" />
-          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/lola-everest.jpg" />
-          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/eve-chairladderTide.jpg" />
-          <mj-carousel-image src="https://harryrich02.github.io/DUMC/img/eve-yerBird.jpg" />
-        </mj-carousel>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://harryrich02.github.io/DUMC/img/eve-chairladderTide.jpg" width="150px" height="200px" alt="Tide at Chairladder" />
+        <mj-image src="https://harryrich02.github.io/DUMC/img/eve-chairladderSunset.jpg" width="150px" height="200px" alt="Sunset at Chairladder" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://harryrich02.github.io/DUMC/img/eve-yerBird.jpg" alt="Yer bird gets airlifted off chairladder" />
       </mj-column>
     </mj-section>
 
