@@ -1,0 +1,182 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#333333" line-height="24px" />
+      <mj-section background-color="#ffffff" padding="20px" />
+      <mj-button
+        background-color="#7E317B"
+        color="#ffffff"
+        font-weight="bold"
+        border-radius="4px"
+      />
+    </mj-attributes>
+    <mj-style>
+      .header-text {
+        letter-spacing: 2px;
+        text-transform: uppercase;
+      }
+      li {
+        margin-bottom: 8px;
+      }
+      .exec-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+      .exec-table td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        font-size: 14px;
+      }
+      .role-name {
+        font-weight: bold;
+        color: #7e317b;
+        width: 40%;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#7E317B" padding="40px 20px">
+      <mj-column>
+        <mj-image
+          width="300px"
+          src="https://harryrich02.github.io/DUMC/img/dumcCrest.png"
+          alt="DUMC Crest"
+        />
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="28px"
+          font-weight="900"
+          css-class="header-text"
+        >
+          WAD WEEKLY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-text>
+          Welcome to the last WAD (not so) weekly of the year! It's been a slow
+          couple weeks (apart from Summer Meet) so apologies for the lack of
+          regularity with which I ended the year.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >📅 COMING UP</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+        <mj-text>
+          <ul>
+            <li>A well deserved break for all!</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px">
+      <mj-column
+        border="2px solid #7E317B"
+        background-color="#fdf7fd"
+        border-radius="8px"
+        padding="10px"
+      >
+        <mj-text font-size="18px" font-weight="bold" color="#7E317B"
+          >🗳️ IT Secretary: Call for Manifestos</mj-text
+        >
+        <mj-text>
+          We will soon be running a by-election for the role of IT Secretary, with voting taking place online. If you are interested in the role, please put together and send in a short manifesto via <a href="https://www.instagram.com/du.mountaineering" style="color: #7e317b;">Instagram</a> or <a href="mailto:mountaineering.club@durham.ac.uk" style="color: #7e317b;">email</a>. <strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >🧗 LAST COUPLE WEEKS IN THE DUMC</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Summer Meet</mj-text
+        >
+        <mj-text>
+          The trip began as it usually does, with questionable meals and questionable travel arrangements. While some of us had our valid reasons (#UTJ), others simply found unique routes to their destination.<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Day 2 saw the boulderers head to Milestone Buttress, where I'm told some rock was dry before I arrived. Leakey and Hannavy survived their ordeal at Idwal Slabs with the help of Arthur's dad and ChatGPT. The day concluded at Bangor Spoons, with George and Fresher James finally arriving at 11:30 after exploring the train network between Durham and Sheffield.<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Day 3 was a perfect demonstration of why the boulder lobby are generally happier people. With the nicest connies of the trip, the gang headed to Afon Lloer with many pads and many fresh. A Paul O'Grady (6c+) send train occurred, before many moved on to the SDS (7b) which was sent by Toby! A very tired pres had a bit of a nap on a pad, leaving him rather pink. He then took a handful of gumbies back to the hut, abandoning Stam and Maddie by the roadside and leaving four people with nine pads between them, resulting in George's favourite mattress ending up a tad damp. While pres took a well deserved nap, a contingent took on King of Drunks (7a) in the evening.<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;In stark contrast, the best part of the Trad lobby's day appears to be Robbie eating a cold can of beans. There were some positives, with Maddie and Stam completing their first multipitch, a lovely dog named George met, and the first appearance of the hut mouse Germaldernon.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="40px">
+      <mj-column border="2px dashed #7E317B" border-radius="10px">
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="bold"
+          color="#7E317B"
+          >💪 WAD OF THE WEEK</mj-text
+        >
+        <mj-text align="center" font-style="italic">
+          [WAD of the Week]
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="20px" padding-bottom="40px">
+      <mj-column>
+        <mj-text>
+          <strong>Harry Richards</strong><br />
+          DUMC President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#222222" padding="40px 20px">
+      <mj-column vertical-align="middle">
+        <mj-image
+          width="120px"
+          src="https://harryrich02.github.io/DUMC/img/dumcLogo.png"
+          alt="DUMC Logo"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          align="center"
+          padding-bottom="10px"
+        >
+          <strong>Durham University Mountaineering Club</strong>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/du.mountaineering"
+            background-color="#7E317B"
+          ></mj-social-element>
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/groups/DUMC.Forum"
+            background-color="#7E317B"
+          ></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="13px" padding-top="15px">
+          <a
+            href="https://mountaineeringclub.webspace.durham.ac.uk/"
+            style="color: #ffffff; text-decoration: underline"
+            >Visit our Website</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

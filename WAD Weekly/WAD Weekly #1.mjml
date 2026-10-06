@@ -1,0 +1,181 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#333333" line-height="24px" />
+      <mj-section background-color="#ffffff" padding="20px" />
+      <mj-button
+        background-color="#7E317B"
+        color="#ffffff"
+        font-weight="bold"
+        border-radius="4px"
+      />
+    </mj-attributes>
+    <mj-style>
+      .header-text {
+        letter-spacing: 2px;
+        text-transform: uppercase;
+      }
+      li {
+        margin-bottom: 8px;
+      }
+      .exec-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+      .exec-table td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        font-size: 14px;
+      }
+      .role-name {
+        font-weight: bold;
+        color: #7e317b;
+        width: 40%;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#7E317B" padding="40px 20px">
+      <mj-column>
+        <mj-image
+          width="300px"
+          src="https://harryrich02.github.io/DUMC/img/dumcCrest.png"
+          alt="DUMC Crest"
+        />
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="28px"
+          font-weight="900"
+          css-class="header-text"
+        >
+          WAD WEEKLY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-text>
+          Hello and welcome to the first WAD Weekly of the year! To those new here: this is our weekly newsletter and roundup of the club. I'd like to say it's always a good read, but I can't promise anything. To those returning: welcome back unc. And to those who have no idea why they're still on this list: you'll never leave mwahahah.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >📅 COMING UP</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+        <mj-text>
+          <ul>
+            <li><strong>Wed 8:00pm:</strong> Roped-up Social (Jobo)</li>
+            <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
+            <li>
+              <strong>Mon 7:30pm:</strong> Beer & Boulder (DCC + The Water
+              House)
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+          >🧗 SUMMER IN THE DUMC</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#7E317B" />
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Exec Adventures</mj-text
+        >
+        <mj-text>
+          I spent 2 weeks in Magic Wood and Brione over August, did lots of scrambling and exploring, climbed a 7b (La Polka) and a 7b+ (Australian Open) and partially tore an ankle ligament on the penultimate day 🙏🔥<br />
+          <strong>- Miranda</strong>
+        </mj-text>
+        <mj-text>
+          My own climbing adventures were limited by a very busy summer, but a trip to the Dolomites saw President and Sister President on the Via Ferrata degli Alpini (photo below, #getthebadgein).
+        </mj-text>
+        <mj-image src="https://harryrich02.github.io/DUMC/img/harry-viaFerrata.jpg" width="400px" height="300px" alt="President and Sister President after Via Ferrata degli Alpini" />
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Preseason</mj-text
+        >
+        <mj-text>
+          The gang reconvened a week (or two for some) early for some preseason adventures. The week started with a bright and early 4pm start at Eden Rock for some training and mock trials. After a catch-up with the ever delightful Martha, a great session ensued culminating in a trip to the Swan on return to Durham. Day 2 saw a trip to Back Bowden, as featured in the wonderful <a href="https://www.instagram.com/reel/Dd7e01_IZl4/?stkn=MTdqdDQ0dmloMDFpZQ==" style="color: #7e317b; text-decoration: underline">edit</a> up on our Instagram. Trad and boulders were climbed, including President's second ever trad lead and first HVD.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Wednesday and Thursday consisted of Team Training at the DCC and a visit to Newcastle Climbing Centre for some lead. Of course, the most important event of the week was the bar-crawl on Thursday night. This led to a few hangovers the next day during exec training, with various cures attempted ranging from drowning their sorrows in milk to the more sensible hair of the dog method.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A number of members competed at Eden Rock's Beast of Eden comp to great success. Finally to round out the week, a few brave souls travelled 2hrs down the country to find some dry rock, and were succesful in their quest! Sport and a touch of shallow-water soloing completed a fantastic week!
+        </mj-text>
+        <mj-image src="https://harryrich02.github.io/DUMC/img/preseason-bowdenBouldering.jpg" width="225px" height="300px" alt="Preseason Bouldering at Back Bowden" />
+        <mj-image src="https://harryrich02.github.io/DUMC/img/preseason-NCC.jpg" width="225px" height="300px" alt="Preseason Lead at NCC" />
+    </mj-section>
+
+    <mj-section padding-top="40px">
+      <mj-column border="2px dashed #7E317B" border-radius="10px">
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="bold"
+          color="#7E317B"
+          >💪 WAD OF THE SUMMER</mj-text
+        >
+        <mj-text align="center" font-style="italic">
+          Charlie for being struck by lightning?! (I wish I had more context)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="20px" padding-bottom="40px">
+      <mj-column>
+        <mj-text>
+          <strong>Harry Richards</strong><br />
+          DUMC President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#222222" padding="40px 20px">
+      <mj-column vertical-align="middle">
+        <mj-image
+          width="120px"
+          src="https://harryrich02.github.io/DUMC/img/dumcLogo.png"
+          alt="DUMC Logo"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          align="center"
+          padding-bottom="10px"
+        >
+          <strong>Durham University Mountaineering Club</strong>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/du.mountaineering"
+            background-color="#7E317B"
+          ></mj-social-element>
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/groups/DUMC.Forum"
+            background-color="#7E317B"
+          ></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="13px" padding-top="15px">
+          <a
+            href="https://mountaineeringclub.webspace.durham.ac.uk/"
+            style="color: #ffffff; text-decoration: underline"
+            >Visit our Website</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
