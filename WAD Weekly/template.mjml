@@ -5,7 +5,7 @@
       <mj-text font-size="16px" color="#333333" line-height="24px" />
       <mj-section background-color="#ffffff" padding="20px" />
       <mj-button
-        background-color="#7E317B"
+        background-color="#68246D"
         color="#ffffff"
         font-weight="bold"
         border-radius="4px"
@@ -31,14 +31,14 @@
       }
       .role-name {
         font-weight: bold;
-        color: #7e317b;
+        color: #68246D;
         width: 40%;
       }
     </mj-style>
   </mj-head>
 
   <mj-body background-color="#f4f4f4">
-    <mj-section background-color="#7E317B" padding="40px 20px">
+    <mj-section background-color="#68246D" padding="40px 20px">
       <mj-column>
         <mj-image
           width="300px"
@@ -67,10 +67,10 @@
 
     <mj-section padding-bottom="0px">
       <mj-column>
-        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+        <mj-text font-size="22px" font-weight="bold" color="#68246D"
           >📅 COMING UP</mj-text
         >
-        <mj-divider border-width="2px" border-color="#7E317B" />
+        <mj-divider border-width="2px" border-color="#68246D" />
         <mj-text>
           <ul>
             <li><strong>Wed 8:00pm:</strong> [SOCIAL]</li>
@@ -86,10 +86,10 @@
 
     <mj-section background-color="#fafafa">
       <mj-column>
-        <mj-text font-size="22px" font-weight="bold" color="#7E317B"
+        <mj-text font-size="22px" font-weight="bold" color="#68246D"
           >🧗 LAST WEEK IN THE DUMC</mj-text
         >
-        <mj-divider border-width="2px" border-color="#7E317B" />
+        <mj-divider border-width="2px" border-color="#68246D" />
 
         <mj-text font-size="18px" font-weight="bold"
           >[EVENT]</mj-text
@@ -100,12 +100,12 @@
     </mj-section>
 
     <mj-section padding-top="40px">
-      <mj-column border="2px dashed #7E317B" border-radius="10px">
+      <mj-column border="2px dashed #68246D" border-radius="10px">
         <mj-text
           align="center"
           font-size="20px"
           font-weight="bold"
-          color="#7E317B"
+          color="#68246D"
           >💪 WAD OF THE WEEK</mj-text
         >
         <mj-text align="center" font-style="italic">
@@ -144,12 +144,12 @@
           <mj-social-element
             name="instagram"
             href="https://www.instagram.com/du.mountaineering"
-            background-color="#7E317B"
+            background-color="#68246D"
           ></mj-social-element>
           <mj-social-element
             name="facebook"
             href="https://www.facebook.com/groups/DUMC.Forum"
-            background-color="#7E317B"
+            background-color="#68246D"
           ></mj-social-element>
         </mj-social>
         <mj-text align="center" font-size="13px" padding-top="15px">
