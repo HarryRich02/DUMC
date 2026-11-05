@@ -73,11 +73,12 @@
         <mj-divider border-width="2px" border-color="#68246D" />
         <mj-text>
           <ul>
-            <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
             <li>
               <strong>Mon 7:30pm:</strong> Beer & Boulder (DCC + The Water
               House)
             </li>
+            <li><strong>Wed:</strong> Brunch Morning (Riverview Cafe)</li>
+            <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
           </ul>
         </mj-text>
       </mj-column>
