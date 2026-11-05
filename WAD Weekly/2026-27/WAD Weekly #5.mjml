@@ -1,0 +1,207 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#333333" line-height="24px" />
+      <mj-section background-color="#ffffff" padding="20px" />
+      <mj-button
+        background-color="#68246D"
+        color="#ffffff"
+        font-weight="bold"
+        border-radius="4px"
+      />
+    </mj-attributes>
+    <mj-style>
+      .header-text {
+        letter-spacing: 2px;
+        text-transform: uppercase;
+      }
+      li {
+        margin-bottom: 8px;
+      }
+      .exec-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+      .exec-table td {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        font-size: 14px;
+      }
+      .role-name {
+        font-weight: bold;
+        color: #68246D;
+        width: 40%;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#68246D" padding="40px 20px">
+      <mj-column>
+        <mj-image
+          width="300px"
+          src="https://harryrich02.github.io/DUMC/img/dumcCrest.png"
+          alt="DUMC Crest"
+        />
+        <mj-text
+          align="center"
+          color="#ffffff"
+          font-size="28px"
+          font-weight="900"
+          css-class="header-text"
+        >
+          WAD WEEKLY
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px">
+      <mj-column>
+        <mj-text>
+          I don't know what you're talking about, there was definitely a WAD Weekly #4. No you're going crazy. We have lots of exciting things coming up, including the release of Adventure Ball tickets, our Movember campaign, and of course the all important Peak Meets!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#68246D"
+          >📅 COMING UP</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#68246D" />
+        <mj-text>
+          <ul>
+            <li><strong>Thu 8:00pm:</strong> Team Training (DCC)</li>
+            <li>
+              <strong>Mon 7:30pm:</strong> Beer & Boulder (DCC + The Water
+              House)
+            </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+        <mj-section padding-top="0px">
+      <mj-column
+        border="2px solid #7E317B"
+        background-color="#fdf7fd"
+        border-radius="8px"
+        padding="10px"
+      >
+        <mj-text font-size="18px" font-weight="bold" color="#7E317B" align="center"
+          >Movember</mj-text
+        >
+        <mj-text>
+          Movember is a global charity dedicated to changing the face of men's health, raising money for and increasing awareness of prostate and testicular cancer, and mental health prevention.</br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Throughout November, the club will be growing moustaches, holding conversations about men's health, and fundraising for the Movember charity, completing a series of challenges based on our fundraising achievements!
+        </mj-text>
+        <mj-text align="center">
+        <strong>Checkout out our Instagram for more information!</strong>
+        </mj-text>
+        <mj-text align="center">
+          <a
+            href="https://movember.com/t/durham-university-mountaineering-club?mc=1"
+            style="
+              color: #7e317b;
+              text-decoration: underline;
+              font-weight: bold;
+            "
+            >Donate Here</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="bold" color="#68246D"
+          >🧗 LAST WEEK(s) IN THE DUMC</mj-text
+        >
+        <mj-divider border-width="2px" border-color="#68246D" />
+
+        <mj-text font-size="18px" font-weight="bold"
+          >SCONE Round 2</mj-text
+        >
+        <mj-text>
+          October 21st saw 10 wannabe comp kids suffer the long journey up to Edinburgh to try their hand at the all new Boulder competition series. SCONE saw a good showing, with people placing high in all categories. Shout out to Miranda for the top ten finish.</br>
+          <strong>- Alasdair</strong>
+        </mj-text>
+        <mj-image src="https://harryrich02.github.io/DUMC/img/dumc-sconeR1.jpg" width="400px" height="300px" alt="DUMC at SCONE R1" />
+
+        <mj-text font-size="18px" font-weight="bold"
+          >Team Selection</mj-text
+        >
+        <mj-text>
+          A further well done to everyone who took part in the team trials, we have now selected our comp team! Please see below in no particular order. If you would like to know your score or ranking (even if you didn't make the team), contact your local Boulder Captain (Ethan Egan).
+          <ul>
+            <li><strong>Men:</strong> Ben Dixon, Alan Mekwinski, Alasdair Cresswell, Ethan Egan, Jared Srinivasan, Ethan Glen, Sam Drewer, Fran Trotter</li>
+            <li><strong>Women:</strong> Miranda Wood, Chiara Sadd, Rachel Gilmore, Annie Lewis, Daisy Taylor, Alex Lloyd-Williams, Lauren Howard, Lola-Rae Draper</li>
+        </mj-text>
+    </mj-section>
+
+    <mj-section padding-top="40px">
+      <mj-column border="2px dashed #68246D" border-radius="10px">
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="bold"
+          color="#68246D"
+          >💪 WAD OF THE WEEK</mj-text
+        >
+        <mj-text align="center" font-style="italic">
+          Alasdair for organising Boardmasters 26/27 (check out the Facebook for details and get involved!)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="20px" padding-bottom="40px">
+      <mj-column>
+        <mj-text>
+          <strong>Harry Richards</strong><br />
+          DUMC President
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#222222" padding="40px 20px">
+      <mj-column vertical-align="middle">
+        <mj-image
+          width="120px"
+          src="https://harryrich02.github.io/DUMC/img/dumcLogo.png"
+          alt="DUMC Logo"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          align="center"
+          padding-bottom="10px"
+        >
+          <strong>Durham University Mountaineering Club</strong>
+        </mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/du.mountaineering"
+            background-color="#68246D"
+          ></mj-social-element>
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/groups/DUMC.Forum"
+            background-color="#68246D"
+          ></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="13px" padding-top="15px">
+          <a
+            href="https://mountaineeringclub.webspace.durham.ac.uk/"
+            style="color: #ffffff; text-decoration: underline"
+            >Visit our Website</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
